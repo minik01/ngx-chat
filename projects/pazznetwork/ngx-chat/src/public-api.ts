@@ -43,6 +43,7 @@ export * from './lib/services/adapters/xmpp/plugins/registration.plugin';
 export * from './lib/services/adapters/xmpp/plugins/roster.plugin';
 export * from './lib/services/adapters/xmpp/plugins/service-discovery.plugin';
 export * from './lib/services/adapters/xmpp/plugins/unread-message-count.plugin';
+export * from './lib/services/adapters/xmpp/plugins/custom-xmpp-plugin';
 export * from './lib/services/adapters/xmpp/xmpp-chat-adapter.service';
 export * from './lib/services/adapters/xmpp/xmpp-chat-connection.service';
 export * from './lib/services/adapters/xmpp/xmpp-client-factory.service';

@@ -23,7 +23,7 @@ import { SendStanzaComponent } from './send-stanza/send-stanza.component';
     imports: [
         BrowserModule,
         BrowserAnimationsModule,
-        NgxChatModule.forRoot(),
+        NgxChatModule.forRoot([]),
         FormsModule,
         AppRoutingModule,
     ],
